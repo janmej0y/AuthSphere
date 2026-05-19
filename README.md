@@ -10,7 +10,6 @@ AuthSphere is a production-ready **MERN stack authentication and task management
 | --- | --- |
 | ![Register page](docs/screenshots/register.png) | ![Dashboard page](docs/screenshots/dashboard.png) |
 
-If the images are missing, run the app locally and capture:
 
 ```text
 http://localhost:5173/register
